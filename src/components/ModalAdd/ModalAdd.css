@@ -1,0 +1,117 @@
+.labelTitle {
+    font-size: 15px;
+
+}
+
+
+.inputBoxs {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #f7f9fb;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    font-size: 14px;
+    border: none;
+}
+
+    .inputBoxs:hover {
+        margin-bottom: 20px;
+        display: block;
+        width: 100%;
+        padding: 8px 16px;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #f7f9fb;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: 0.25rem;
+        font-size: 14px;
+        border: none;
+        box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+    }
+
+    .inputBoxs:focus {
+        margin-bottom: 20px;
+        display: block;
+        width: 100%;
+        padding: 8px 16px;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #f7f9fb;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: 0.25rem;
+        font-size: 14px;
+        border: none;
+        outline: none;
+        box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+    }
+
+.btnSave {
+    border-radius: 6px;
+    padding: 8px 16px;
+    border: none;
+    background-color: #376eb5;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: white;
+}
+
+    .btnSave:hover {
+        border-radius: 6px;
+        padding: 8px 16px;
+        border: none;
+        background-color: #002c4b;
+        font-family: Montserrat;
+        font-size: 14px;
+        color: white;
+    }
+
+.btnCancel {
+    border-radius: 6px;
+    padding: 8px 16px;
+    border: none;
+    background-color: lightgray;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: black;
+}
+
+.optDeparts {
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 14px;
+    background-color: #f7f9fb;
+    border: none;
+    width: 100%;
+}
+
+    .optDeparts:hover {
+        padding: 8px 16px;
+        border-radius: 6px;
+        font-size: 14px;
+        background-color: #f7f9fb;
+        border: none;
+        width: 100%;
+        box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+    }

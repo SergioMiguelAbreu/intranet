@@ -1,0 +1,58 @@
+* {
+    font-family: Montserrat !important;
+}
+
+.whiteColor {
+    background: white;
+    padding: 60px 30px;
+}
+
+.btn-search {
+    outline: none;
+    padding: 6px 16px;
+    border: none;
+    border-radius: 50px;
+    border: 1px solid lightgray;
+    min-width: 260px;
+    font-size: 14px;
+}
+
+    .btn-search:hover {
+        outline: none;
+        padding: 6px 16px;
+        border: none;
+        border-radius: 50px;
+        box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+        min-width: 260px;
+        font-size: 14px;
+    }
+
+    .btn-search:focus {
+        outline: none;
+        padding: 6px 16px;
+        border: none;
+        border-radius: 50px;
+        box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+        min-width: 260px;
+        font-size: 14px;
+    }
+
+.btnAddUser {
+    border-radius: 6px;
+    padding: 8px 16px;
+    border: none;
+    background-color: #376eb5;
+    color: white;
+    margin-right: 24px;
+    font-family: Montserrat;
+    font-size: 14px;
+}
+
+    .btnAddUser:hover {
+        border-radius: 6px;
+        padding: 8px 16px;
+        border: none;
+        background-color: #002c4b;
+        font-family: Montserrat;
+        font-size: 14px;
+    }

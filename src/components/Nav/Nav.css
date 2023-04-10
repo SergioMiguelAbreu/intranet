@@ -1,0 +1,18 @@
+.Logo-style {
+    background-image: url(../../assets/img/logo.svg);
+    max-height: 43px;
+    z-index: 100000;
+  }
+
+.head {
+    transition: all 0.5s;
+    z-index: 2;
+    height: 60px;
+    box-shadow: 0px 2px 20px rgb(1 41 112 / 10%);
+    background-color: white;
+}
+
+.mLeftRight{
+  padding-left: 70px;
+  padding-right: 70px;
+}

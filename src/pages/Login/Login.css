@@ -1,0 +1,80 @@
+.height100 {
+    height: 100vh;
+    background-color: #002c4b;
+}
+
+.titleLogin {
+    color: black;
+}
+
+.formLogin {
+    padding: 50px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    min-width: 500px;
+    text-align: center;
+    background-color: white;
+}
+
+.inputBoxs {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #f7f9fb;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    font-size: 14px;
+    border: none;
+}
+
+    .inputBoxs:hover {
+        margin-bottom: 20px;
+        display: block;
+        width: 100%;
+        padding: 8px 16px;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #f7f9fb;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: 0.25rem;
+        font-size: 14px;
+        border: none;
+        box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+    }
+
+    .inputBoxs:focus {
+        margin-bottom: 20px;
+        display: block;
+        width: 100%;
+        padding: 8px 16px;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #f7f9fb;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: 0.25rem;
+        font-size: 14px;
+        border: none;
+        outline: none;
+        box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+    }

@@ -1,0 +1,58 @@
+p {
+    font-family: "montserrat", sans-serif;
+    word-break: break-word;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.card-body a {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+.card-body {
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin-left: 16px;
+    height: 12.586rem;
+    min-width: 201px;
+    max-width: 201px;
+    position: relative;
+    padding: 20px !important;
+}
+
+.card-title {
+    font-size: 21px;
+    line-height: 27.2px;
+    color: white;
+    font-weight: 600;
+    font-family: "montserrat", sans-serif;
+    margin-bottom: 8px !important;
+}
+
+.g-button {
+    border: 1px solid white;
+    padding: 7px;
+    padding: 8px 18px;
+    border-radius: 6px;
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.g-button:hover {
+    background-color: white;
+    padding: 7px;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 6px;
+    color: #002C4B;
+    font-size: 1rem;
+}
+
+.p-0 {
+    padding-left: 0 !important;
+}
+

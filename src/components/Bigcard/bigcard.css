@@ -1,0 +1,20 @@
+.big-card-body {
+        margin-bottom: 30px;
+        border: none;
+        border-radius: 6px;
+        box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+        margin-left: 16px;
+        height: 12.586rem;
+        min-width: 442px;
+        max-width: 442px;
+        position: relative;
+        padding: 20px !important;
+        
+}
+
+.big-card-body a {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    
+}

@@ -1,0 +1,43 @@
+.body-contacts {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    padding: 16px;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    margin-left: 16px;
+    min-height: 162px;
+}
+
+.colorBlack {
+    color: black;
+}
+
+.icon {
+    margin-right: 6px;
+    height: 14px;
+}
+
+.marginBottom30 {
+    margin-bottom: 30px;
+}
+
+.titleName {
+    color: #002C4B;
+    font-weight: 500;
+}
+
+@media (min-width: 768px) {
+.col-md-2-new {
+    flex: 0 0 auto;
+    width: 20%;
+}
+}
+
+.txt-depart {
+    color: grey;
+}
+
+.btnDelete {
+    background: none;
+    border: none;
+    
+}
